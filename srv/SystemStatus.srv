@@ -1,0 +1,9 @@
+---
+float64 timestamp
+float64 session_start_time
+int8 tracking_status
+bool is_lost
+bool map_changed
+bool started
+bool success
+bool has_reset
